@@ -1,0 +1,3 @@
+B:\apis\back_lcdpr\obj\Debug\ldckoaopkpioas debug.njsproj.AssemblyReference.cache
+B:\apis\back_lcdpr\obj\Debug\ldckoaopkpioas debug.njsproj.CoreCompileInputs.cache
+B:\apis\back_lcdpr\bin\Microsoft.NodejsTools.WebRole.dll
